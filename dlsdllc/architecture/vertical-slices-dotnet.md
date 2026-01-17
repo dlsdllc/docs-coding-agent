@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Vertical Slices Architecture for .NET</title>
-</head>
-<body>
-    <h1>Vertical Slices Architecture for .NET</h1>
 ***
 
 ## VERTICAL SLICE IMPLEMENTATION USING MICROSOFT-SUPPORTED PRIMITIVES
@@ -137,7 +129,3 @@ DI Extension Guidance:
 <https://learn.microsoft.com/dotnet/core/extensions/options-library-authors>    [\[learn.microsoft.com\]](https://learn.microsoft.com/en-us/dotnet/core/extensions/options-library-authors)
 
 ***
-
-
-</body>
-</html>
